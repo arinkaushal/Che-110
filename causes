@@ -1,0 +1,225 @@
+<!--CAUSES (CUASES.HTML)-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/38635/tsunami-disaster-clipart-md.png" width="130" height="112" style="transform: translateX(580px);float: left;">
+    <title>Life Diagnostic Centre</title>
+</head>
+<style>
+     body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: black;
+            color: white;
+            padding: 1em;
+            text-align: center;
+            margin:0px;
+        }
+        section {
+            margin: 0px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        p {
+            color: black;
+        }
+        section {
+            color:black;
+        }
+
+        #hh {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 1em;
+            height: 10px;
+        }
+        a{
+            text-decoration: none;
+            padding:10px;
+            font-weight: 300;
+            color:black;
+            
+        }
+        #bloodtest {
+            font-family: 'Calibri';
+            display: inline;
+            background-color: rgb(3,3,85);
+            border:1px solid rgb(3,3,85);
+            color:#f4f4f4;
+    
+            font-size: 18px;
+            font-weight: 300;
+        }
+        
+        #try1 {
+            font-family: 'Calibri';
+            display: inline;
+    
+            font-size: 18px;
+            font-weight: 300;
+        
+        }
+        #try:hover {
+            background-color: rgb(3,3,85);
+            border:1px solid rgb(3,3,85);
+            color:#f4f4f4;
+        }
+        li {
+            font-family: 'Arial Black';
+            font-size:20px
+        }
+        #apply {
+            padding:15px;
+            padding-top:10px;
+            padding-bottom:10px;
+            font-size:15px;
+            background-color: rgb(3,3,85);
+            color: white;
+        }
+        #apply:hover{
+            background-color: black;
+            border:1px solid black;
+            color:#f4f4f4;
+            border-radius: 5px;
+        }
+</style>
+<body>
+
+    <header>
+        <h1 >Disastermn</h1>
+    </header>
+
+
+    <section style="line-height: 20px; font-family: 'Calibri'; font-size: 18px;">
+        <ul>
+            <li id="try1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+            <a id='try' href='about.html'><li id="try1">Home</li></a>
+            <li id="try1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
+            <a id='try' href="solie.html"><li id="try1">Emergency Services</li></a>
+            <li id="try1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
+            <a id='bloodtest' href="causes.html"><li id="try1">Evacuation</li></a>
+            <li id="try1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
+            <a id='try' href="conserv.html"><li id="try1">Disaster Preparedness</li></a>
+            <li id="try1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
+            <a id='try' href="contact.html"><li id="try1">Contact Us +91(9405800428)</li></a>
+            
+        </ul>
+        <br><br><br>
+        <img src="https://cdn1.iconfinder.com/data/icons/firefighters-filled-color/300/73627694Untitled-3-512.png" style="float: left;transform: translateX(120px);" width="100" height="100" >  
+
+        <h2 style="color:black;font-family: 'Arial Black'; font-size: 50px; text-align: center;">Evacuation Routes and Assembly Points</h2>
+        <br><br><br><br><br>
+        <p style="line-height: 40px;"><span style="font-size: 30px;font-weight: 800;font-style: italic;">Detailed Maps and Instructions:</span> </p>
+        <img src="https://www.wikihow.com/images/8/8f/Evacuate-a-Building-in-an-Emergency-Step-11.jpg" style="float: right;" width="430" height="280">
+        <p>can be caused by both natural processes and human activities. Some of the main causes of soil erosion include:</p>
+        <br>
+        <h2 style="font-size: 30px;">
+            These maps and instructions include:
+        </h2>
+        <p style="line-height: 40px;">Evacuation routes for each building, marked with clear signage and highlighting the nearest exits.
+            Locations of the designated assembly points, which are open spaces or parking lots away from buildings and potential hazards.
+            Specific instructions on how to safely evacuate, including the recommended routes to take and the actions to follow.
+        </p>
+        <br>
+        <br>
+        <br><br><br>
+        
+        <h2 style="font-size: 40px;">Types of Emergencies Requiring Evacuation:</h2>
+        
+        
+        <p style="line-height: 40px;">Evacuation of campus buildings and grounds may be necessary in response to a variety of emergency situations, including:
+            
+            <img src="https://www.auprep.com.au/wp-content/uploads/2020/08/76763.jpg" style="float: right;" width="430" height="280">
+            Fires or explosions
+            Hazardous material spills or releases
+            Bomb threats or other security incidents
+            Natural disasters, such as earthquakes, severe storms, or wildfires, that pose an immediate threat to the campus community.
+            Evacuation Procedures:
+            Upon the activation of the emergency alarm or the instruction to evacuate, all occupants should immediately leave the building or area, following the designated evacuation routes and signage. Once outside, individuals should proceed to the nearest assembly point and await further instructions from emergency response personnel.
+            
+            Faculty, staff, and student leaders are trained to assist in the evacuation process, ensuring that everyone exits the building safely and efficiently. Individuals with disabilities or special needs will receive additional assistance, as outlined in the university's emergency plans.</p>
+            <br><br>
+            <h2 style="font-size: 30px;">Fire Safety and Response </h2>
+            <img src="https://images.ctfassets.net/9hll0m1ctx1b/3v1AUW0MeIfaVS4jUApeI5/7d446d101b193bb62830b6c35d650492/fire-emergency-response-team.jpg?w=1200&h=800&fl=progressive&q=80&fm=jpg" style="float: right;" width="430" height="280">
+            <p style="line-height: 40px;"><i style="font-size: 20px; font-weight: 900;"> Fire Prevention Guidance:</i>
+                To prevent fires on campus, the university provides guidance on identifying and mitigating fire hazards, including:
+                
+                Proper storage and handling of flammable materials
+                Maintenance of electrical equipment and wiring
+                Adherence to fire safety codes and regulations
+                Regular inspection and testing of fire safety systems, such as alarms, sprinklers, and extinguishers</p>
+                <p style="line-height: 40px;"><i style="font-size: 20px; font-weight: 900;">  Fire Response Procedures:</i>
+                    
+                    In the event of a fire, individuals should immediately activate the nearest fire alarm and call the emergency services. They should then follow these steps:
+                    
+                    Remain calm and proceed to the nearest exit, closing doors behind you to contain the fire.
+                    Use the stairs, not elevators, to evacuate the building.
+                    If smoke is present, crawl low under the smoke to breathe cleaner air.
+                    If a fire extinguisher is available and you are trained to use it, attempt to extinguish the fire, but do not put yourself at risk.
+                    Once outside, proceed to the designated assembly point and await further instructions from emergency personnel.
+                </p>
+                <p style="line-height: 40px;"><i style="font-size: 20px; font-weight: 900;">Wildfire:</i> Campuses in dry, forested, or urban-wildland interface areas may be at risk of wildfires, which can quickly spread and threaten buildings, equipment, and the safety of the campus community.</p>
+                <br><br>
+                <img src="https://www.icrc.org/sites/default/files/styles/document_main/public/document/image/150504-nepal-earthquake-image-11.jpg?itok=zepl3N3G" style="float: right;" width="430" height="280">
+                <h2 style="font-size: 30px;">Earthquake and Natural Disaster Response
+                </h2>
+                
+                <p style="line-height: 40px;"><i style="font-size: 20px; font-weight: 900;">Earthquake Response:</i>During an earthquake, the university recommends the following "drop, cover, and hold" techniques:
+                    
+                    Drop to the ground and take cover under a sturdy desk or table, protecting your head and neck.
+                    Cover your body as much as possible, keeping your head protected.
+                    Hold on to the desk or table, and be prepared to move with it if the shaking intensifies.
+                    Remain in this position until the shaking stops and you are instructed to evacuate.</p>
+                    <br><br>
+                    <h2 style="font-size: 30px;">Response to other natural disasters</h2>
+                    <img src="https://projectpreparedness.com/wp-content/uploads/2021/01/Untitled-design.jpg" style="float: right;" width="430" height="280">
+                    <p style="line-height: 40px;"><i style="font-size: 20px; font-weight: 900;"></i>The university has specific procedures in place for responding to other natural disasters that may impact the campus, such as floods, severe storms, or wildfires. These include:
+                        
+                        Monitoring weather conditions and emergency alerts to activate early warning and notification systems.
+                        Securing campus facilities, including closing windows, securing outdoor equipment, and activating backup power systems.
+                        Implementing emergency evacuation plans and directing the campus community to designated safe areas or shelters.
+                        Coordinating with local emergency services and agencies to ensure a coordinated response and recovery effort.</p>
+                        
+                        <br><br>
+                        
+                        <h2 style="font-size: 30px;">First Aid and Medical Emergency Response</h2>
+                        <img src="https://webhealthwire.com/wp-content/uploads/2021/04/make-your-own-first-aid-kit-featured.jpg" style="float: right;" width="430" height="280">
+                        <p style="line-height: 40px;"><i style="font-size: 20px; font-weight: 900;">First Aid Instructions:</i>The university provides instructions on basic first aid procedures, including:
+                            
+                            Assessing the situation and ensuring the safety of the scene
+                            Providing first aid for common injuries, such as cuts, burns, and fractures
+                            Performing CPR and using an automated external defibrillator (AED)
+                            Recognizing and responding to signs of shock, heat-related illness, or other medical emergencies</p>
+                            <p style="line-height: 40px;"><i style="font-size: 20px; font-weight: 900;">University Emergency Medical Services:</i>The university has a team of trained emergency medical personnel, including campus police and certified first responders, who are available 24/7 to respond to medical emergencies on campus. Their contact information, as well as the locations of first aid kits and AEDs, are clearly listed on the website.
+                
+                Students, staff, and faculty are encouraged to familiarize themselves with the university's emergency medical services and to seek immediate assistance in the event of a medical emergency on campus.</p>
+                
+                
+                <br>
+                
+                
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: disastermn@gmail.com</p>
+        <p>Phone: +917635247826</p>
+    </section>
+
+
+   
+    <p id="hh">&copy; 2023 Disastermn. All rights reserved.</p>
