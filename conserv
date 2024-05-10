@@ -1,0 +1,197 @@
+<!-- CONSERVATION (CONSERV.HTML)-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/38635/tsunami-disaster-clipart-md.png" width="130" height="112" style="transform: translateX(580px);float: left;">
+    <title>Life Diagnostic Centre</title>
+</head>
+<style>
+     body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: black;
+            color: white;
+            padding: 1em;
+            text-align: center;
+            margin:0px;
+        }
+        section {
+            margin: 0px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        p {
+            color: black;
+        }
+        section {
+            color:black;
+        }
+
+        #hh {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 1em;
+            height: 10px;
+        }
+        a{
+            text-decoration: none;
+            padding:10px;
+            font-weight: 300;
+            color:black;
+            
+        }
+        #bloodtest {
+            font-family: 'Calibri';
+            display: inline;
+            background-color: rgb(3,3,85);
+            border:1px solid rgb(3,3,85);
+            color:#f4f4f4;
+    
+            font-size: 18px;
+            font-weight: 300;
+        }
+        
+        #try1 {
+            font-family: 'Calibri';
+            display: inline;
+    
+            font-size: 18px;
+            font-weight: 300;
+        
+        }
+        #try:hover {
+            background-color: rgb(3,3,85);
+            border:1px solid rgb(3,3,85);
+            color:#f4f4f4;
+        }
+        li {
+            font-family: 'Arial Black';
+            font-size:20px
+        }
+        #apply {
+            padding:15px;
+            padding-top:10px;
+            padding-bottom:10px;
+            font-size:15px;
+            background-color: rgb(3,3,85);
+            color: white;
+        }
+        #apply:hover{
+            background-color: black;
+            border:1px solid black;
+            color:#f4f4f4;
+            border-radius: 5px;
+        }
+</style>
+<body>
+
+    <header>
+        <h1 >Disastermn</h1>
+    </header>
+
+
+    <section style="line-height: 20px; font-family: 'Calibri'; font-size: 18px;">
+        <ul>
+            <li id="try1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+            <a id='try' href='about.html'><li id="try1">Home</li></a>
+            <li id="try1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
+            <a id='try' href="solie.html"><li id="try1">Emergency Services</li></a>
+            <li id="try1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
+            <a id='try' href="causes.html"><li id="try1">Evacuation</li></a>
+            <li id="try1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
+            <a id='bloodtest' href="conserv.html"><li id="try1">Disaster Preparedness</li></a>
+            <li id="try1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
+            <a id='try' href="contact.html"><li id="try1">Contact Us +91(9405800428)</li></a>
+            
+        </ul>
+        <br><br><br>
+        
+        <img src="https://sellmax.com/car-disaster-preparedness/images/disaster-img1.png" style="float: left;transform: translateX(350px);" width="100" height="100" >
+        <h2 style="color:black;font-family: 'Arial Black'; font-size: 50px; text-align: center;">Disaster Preparedness</h2>
+        <br><br><br><br><br>
+        <h2 style="font-size: 40px;">Creating a personal emergency kit</h2>
+        <p style="line-height: 40px;"><span style="font-size: 25px;font-weight: 800;font-style: italic;">Checklist of Essential Items:</span> The university recommends that all members of the campus community assemble a personal emergency kit, which should include the following essential items:</p>
+        <img src="https://th.bing.com/th/id/OIP.mQ7rC_yFpIbFDocLeNlx7gAAAA?rs=1&pid=ImgDetMain" style="float: right;" width="430" height="280">
+        <ul style="font-family: 'Calibri' ; font-size: 13px;">
+            <li style="font-size: 13px;">Non-perishable food (e.g., canned goods, energy bars, dried fruit)</li>
+            <li style="font-size: 13px;">Water (at least 1 gallon per person per day for at least 3 days)</li>
+            <li style="font-size: 13px;">Medications (a week's supply of prescription and over-the-counter medications)</li>
+            <li style="font-size: 13px;">First aid kit (including bandages, gauze, antiseptic, etc.)</li>
+            <li style="font-size: 13px;">Flashlight and extra batteries</li>
+            <li style="font-size: 13px;">Battery-powered or hand-crank radio</li>
+            <li style="font-size: 13px;">Whistle to signal for help</li>
+            <li style="font-size: 13px;">Dust masks</li>
+            <li style="font-size: 13px;"></li>
+            <li style="font-size: 13px;">Plastic sheeting and duct tape for sheltering in place</li>
+            <li style="font-size: 13px;">Sanitation and personal hygiene items (e.g., toilet paper, soap, feminine supplies)</li>
+            <li style="font-size: 13px;">Copies of important documents (e.g., identification, insurance, bank information)</li>
+            <li style="font-size: 13px;">Cash in small denominations</li>
+            <li style="font-size: 13px;">Blankets, warm clothing, and sturdy shoes</li>   
+        </ul>
+        <br>
+        <p style="line-height: 40px;">Gather all the necessary items and store them in a sturdy, water-resistant container or backpack.
+            Rotate and replace perishable items, such as food and water, every 6 months to ensure freshness.
+            Check batteries and replace them as needed to keep the kit ready for use.
+            Keep the kit in an easily accessible location, such as a closet or under a bed, where it can be quickly grabbed in an emergency.</p>
+        </p>
+        <br>
+        <br>
+       
+        
+        <img src="https://i.pinimg.com/736x/33/75/9b/33759be4450192684d43f249664149b6.jpg" style="float: right;" width="430" height="280">
+        <h2 style="font-size: 40px;">University Emergency Notification System:</h2>
+        
+        <p style="line-height: 40px;">The university utilizes a comprehensive emergency notification system to quickly alert the campus community about potential hazards and emergencies. This system includes various communication channels, such as:
+</p>
+<ul>
+            <li  style="font-size: 13px;">Text messages and push notifications</li>
+            <li  style="font-size: 13px;">Email alerts</li>
+            <li  style="font-size: 13px;">Campus emergency sirens and public address systems</li>
+            <li  style="font-size: 13px;">Updates on the university's website and social media platforms</li>
+
+</ul>      
+<br>
+<br>      
+        <h2 style="font-size: 30px;">Importance of an Emergency Fund:</h2>
+        <p style="line-height: 40px;"><i style="font-size: 20px; font-weight: 900;"></i> The university should emphasize the importance of maintaining an emergency fund to cover unexpected expenses related to disasters or emergencies. An emergency fund can help individuals and families weather the financial impact of a crisis and support their recovery efforts.</p>
+            <p style="line-height: 40px;"><i style="font-size: 20px; font-weight: 900;">Building an Emergency Fund:</i>Following are the tips for building an emergency fund:</p>
+            <img src="https://myfinanciallifema.org/wp-content/uploads/2020/06/emergency-fund.jpg" style="float: right;" width="430" height="280">
+            <p style="line-height: 40px;"><i style="font-size: 20px; font-weight: 900;">Start small</i>Begin by setting aside a modest amount of money each month, even if it's just 100 or 500 rupees</p>
+        
+            <p style="line-height: 40px;"><i style="font-size: 20px; font-weight: 900;">Automate savings:</i>Set up automatic transfers from your checking account to a dedicated savings account to make the process easier.</p>
+            
+            
+            <p style="line-height: 40px;"><i style="font-size: 20px; font-weight: 900;">Increase contributions over time:  </i>As your financial situation improves, gradually increase the amount you contribute to your emergency fund.</p>
+            <p style="line-height: 40px;"><i style="font-size: 20px; font-weight: 900;">Avoid dipping into the fund:  </i>Treat the emergency fund as a true savings account, only to be used in case of genuine emergencies.</p>
+            
+            <p style="line-height: 40px;"><i style="font-size: 20px; font-weight: 900;">Revaluate and adjust:</i>Review your emergency fund periodically and make adjustments as your financial situation or needs change.</p>
+            
+            
+
+            
+        <br>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: disastermn@gmail.com</p>
+        <p>Phone: +917635247826</p>
+    </section>
+
+
+   
+    <p id="hh">&copy; 2023 Disastermn. All rights reserved.</p>
