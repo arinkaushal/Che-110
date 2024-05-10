@@ -1,0 +1,171 @@
+<!--CONTACT PAGE (CONTACT.HTML)-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/38635/tsunami-disaster-clipart-md.png" width="130" height="112" style="transform: translateX(580px);float: left;">
+    <title>Life Diagnostic Centre</title>
+</head>
+<style>
+     body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: black;
+            color: white;
+            padding: 1em;
+            text-align: center;
+            margin:0px;
+        }
+        section {
+            margin: 0px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        p {
+            color: black;
+        }
+        section {
+            color:black;
+        }
+
+        #hh {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 1em;
+            height: 10px;
+        }
+        a{
+            text-decoration: none;
+            padding:10px;
+            font-weight: 300;
+            color:black;
+            
+        }
+        #bloodtest {
+            font-family: 'Calibri';
+            display: inline;
+            background-color: rgb(3,3,85);
+            border:1px solid rgb(3,3,85);
+            color:#f4f4f4;
+    
+            font-size: 18px;
+            font-weight: 300;
+        }
+        
+        #try1 {
+            font-family: 'Calibri';
+            display: inline;
+    
+            font-size: 18px;
+            font-weight: 300;
+        
+        }
+        #try:hover {
+            background-color: rgb(3,3,85);
+            border:1px solid rgb(3,3,85);
+            color:#f4f4f4;
+        }
+        li {
+            font-family: 'Arial Black';
+            font-size:20px
+        }
+        #apply {
+            padding:15px;
+            padding-top:10px;
+            padding-bottom:10px;
+            font-size:15px;
+            background-color: rgb(3,3,85);
+            color: white;
+        }
+        #apply:hover{
+            background-color: black;
+            border:1px solid black;
+            color:#f4f4f4;
+            border-radius: 5px;
+        }
+</style>
+<body>
+
+    <header>
+        <h1 >Disastermn</h1>
+    </header>
+
+    <section style="line-height: 20px; font-family: 'Calibri'; font-size: 18px; text-align: center;">
+        <ul>
+            <li id="try1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+            <a id='try' href='about.html'><li id="try1">Home</li></a>
+            <li id="try1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
+            <a id='try' href="solie.html"><li id="try1">Emergency Services</li></a>
+            <li id="try1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
+            <a id='try' href="causes.html"><li id="try1">Evacuation</li></a>
+            <li id="try1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
+            <a id='try' href="conserv.html"><li id="try1">Disaster Preparedness</li></a>
+            <li id="try1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
+            <a id='bloodtest' href="contact.html"><li id="try1">Contact Us +91(9405800428)</li></a>
+            
+        </ul>
+        <br>
+        <img src="https://clipartcraft.com/images/phone-clipart-cartoon-7.png" style="float: left;transform: translateX(480px);" width="120" height="120" >  
+        <br>    
+        <h2 style="color:black;font-family: 'Arial Black'; font-size: 50px; text-align: center;font-style: normal;">Contact Us</h2>
+        <br>
+        <p>Welcome to the Disastermn Contact Page – your gateway to learn and explore the emergency services provided at LPU for emrgency purposes, who knows you might need them at some point, although all the emergency numebers are already available in our other web pages this page will help you contact the main team behind this project</p>
+        <br>
+        <h2 style="color:black;font-family: 'Arial Black';font-style: normal;">Contact Information</h2>
+        <p><b>ADDRESS:-</b> LPU Block 34,Phagwara,Punjab</p>
+        <p><b>Contact:-</b> +91(9405800428)</p>
+        <p><b>Email:-</b> disastermn@gmail.com</p>
+        <br>
+        <br>
+        <h2 style="color:black;font-family: 'Arial Black';font-style: normal;">Hours Available</h2>
+        <p>We are available in the following hours</p>
+        <p><b>-Monday to Friday:</b> 9:00am-5:00pm</p>
+        <p><b>-Sunday:</b> 9:00am-10pm</p> 
+        <br>
+        <br>
+        <h2 style="color:black;font-family: 'Arial Black';font-style: normal;">Reach out to Us</h2>
+        <p>Whether you have questions about our Web project, want to contact a professional, or need assistance with any aspect of our</p>
+        <p>offerings, feel free to contact us using the provided details. Our friendly and knowledgeable staff is ready to address your concerns </p>
+        <p>and provide the information you need</p>
+        <br>
+       
+        <br>
+        <h2 style="color:black;font-family: 'Arial Black';font-style: normal;">Feedback And Enquiries</h2>
+        <p>We welcome your feedback and inquiries. If you have any suggestions, comments, or concerns, please don't hesitate to get in touch. Your input </p>
+        <p>is valuable to us as we strive to continually enhance our services.</p>
+        <br>
+        <textarea name="feedback" id="feed" cols="100" rows="8"></textarea>
+        <br>
+        <button type="submit">Submit</button>
+        <br>
+        <br>
+        <br>
+        <br>
+        <q style="font-weight: 700; font-size: 20px;">Thank you for visiting our website. We look forward to hearing from you about how can we improve our project further.</q>
+
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: disastermn@gmail.com</p>
+        <p>Phone: +917635247826</p>
+    </section>
+
+
+   
+    <p id="hh">&copy; 2023 Disastermn. All rights reserved.</p>
