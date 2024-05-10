@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/38635/tsunami-disaster-clipart-md.png" width="130" height="112" style="transform: translateX(580px);float: left;">
+    <title>Life Diagnostic Centre</title>
+</head>
+<style>
+     body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: black;
+            color: white;
+            padding: 1em;
+            text-align: center;
+            margin:0px;
+        }
+        section {
+            margin: 0px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        p {
+            color: black;
+        }
+        section {
+            color:black;
+        }
+
+        #hh {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 1em;
+            height: 10px;
+        }
+        a{
+            text-decoration: none;
+            padding:10px;
+            font-weight: 300;
+            color:black;
+            
+        }
+        #bloodtest {
+            font-family: 'Calibri';
+            display: inline;
+            background-color: rgb(3,3,85);
+            border:1px solid rgb(3,3,85);
+            color:#f4f4f4;
+    
+            font-size: 18px;
+            font-weight: 300;
+        }
+        
+        #try1 {
+            font-family: 'Calibri';
+            display: inline;
+    
+            font-size: 18px;
+            font-weight: 300;
+        
+        }
+        #try:hover {
+            background-color: rgb(3,3,85);
+            border:1px solid rgb(3,3,85);
+            color:#f4f4f4;
+        }
+        li {
+            font-family: 'Arial Black';
+            font-size:20px
+        }
+        #apply {
+            padding:15px;
+            padding-top:10px;
+            padding-bottom:10px;
+            font-size:15px;
+            background-color: rgb(3,3,85);
+            color: white;
+        }
+        #apply:hover{
+            background-color: black;
+            border:1px solid black;
+            color:#f4f4f4;
+            border-radius: 5px;
+        }
+</style>
+<body>
+
+    <header>
+        <h1 >Disastermn</h1>
+    </header>
+
+
+    <section style="line-height: 20px; font-family: 'Calibri'; font-size: 18px;">
+        <ul>
+            <li id="try1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+            <a id='bloodtest' href='about.html'><li id="try1">Home</li></a>
+            <li id="try1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
+            <a id='try' href="solie.html"><li id="try1">Emergency Services</li></a>
+            <li id="try1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
+            <a id='try' href="causes.html"><li id="try1">Evacuation</li></a>
+            <li id="try1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
+            <a id='try' href="conserv.html"><li id="try1">Disaster Preparedness</li></a>
+            <li id="try1">&nbsp;&nbsp;&nbsp;&nbsp;</li>
+            <a id='try' href="contact.html"><li id="try1">Contact Us +91(9405800428)</li></a>
+            
+        </ul>
+        <br><br><br>
+        
+
+        <h2 style="color:black;font-family: 'Arial Black'; font-size: 50px; text-align: center;">Introduction To disaster Management in Lpu</h2>
+        <br><br><br><br><br>
+        <p style="line-height: 40px;"><span style="font-size: 45px;font-weight: 800;font-style: italic;">Soil erosion</span> can be caused by both natural processes and human activities. Some of the main causes of soil erosion include:</p>
+        <br>
+        <img src="https://img2.thejournal.ie/article/5265253/river?version=5265256&width=1340" style="float: right;" width="430" height="280">
+        <h2 style="font-size: 40px;">Arin Kaushal -12303892 -Roll no.48</h2>
+        <h2 style="font-size: 40px;">Arman Gupta  -12307349 -Roll no.49</h2>
+        <h2 style="font-size: 40px;">Sejal gupta -12307286 -Roll no.50</h2>
+        <h2 style="font-size: 40px;">Introduction to Disaster Management</h2>
+
+        <p style="line-height: 40px;">Disaster management is the process of preparing for, responding to, and recovering from emergencies and catastrophic events that can disrupt the normal functioning of a community or organization. For a university campus, disaster management is crucial to ensure the safety and well-being of students, staff, and faculty, as well as the protection of the campus infrastructure and resources.
+        </p>
+        <br>
+        <br>
+        <br><br><br>
+        
+        <h2 style="font-size: 40px;">Potential Types of Disasters</h2>
+        
+        <p style="line-height: 40px;">University campuses face a wide range of potential disaster scenarios, both natural and human-caused, that require comprehensive disaster management planning and preparedness.</p>
+        <br><br><br><br>
+        <h2 style="font-size: 30px;">Natural Disasters: </h2>
+        <img src="https://i.kinja-img.com/gawker-media/image/upload/t_original/rtcyoaeaurebmrspycwf.jpg" style="float: right;" width="430" height="280">
+        <p style="line-height: 40px;"><i style="font-size: 20px; font-weight: 900;">Earthquakes:</i> Many university campuses are located in seismic-active regions, making them vulnerable to the devastating effects of earthquakes, which can cause structural damage, power outages, and disruption to essential services.
+            Severe Weather: Campuses may experience severe storms, hurricanes, tornadoes, or blizzards that can lead to flooding, high winds, power failures, and transportation disruptions.</p>
+            <p style="line-height: 40px;"><i style="font-size: 20px; font-weight: 900;">Wildfire:</i> Campuses in dry, forested, or urban-wildland interface areas may be at risk of wildfires, which can quickly spread and threaten buildings, equipment, and the safety of the campus community.</p>
+            <p style="line-height: 40px;"><i style="font-size: 20px; font-weight: 900;">Floods:</i>Campuses located near bodies of water or in low-lying areas may be susceptible to flooding, which can damage facilities, disrupt operations, and create hazardous situations for the community.</p>
+            <br><br><br><br>
+            <img src="https://img.manufacturing.net/files/base/indm/all/image/2016/06/mnet_123827_toxicchembig.png?auto=format&dpr=2&fit=crop&h=394&w=700" style="float: right;" width="330" height="180">
+            <h2 style="font-size: 30px;">Human-Caused Disasters: </h2>
+            <p style="line-height: 40px;"><i style="font-size: 20px; font-weight: 900;">Fire:</i>Fires can occur in campus buildings, laboratories, or residence halls, posing a serious threat to life and property.</p>
+            
+            
+            <p style="line-height: 40px;"><i style="font-size: 20px; font-weight: 900;">Chemical or Biological Incidents: </i>Campuses with research facilities or laboratories may face the risk of chemical spills, toxic releases, or biological agent incidents that can endanger the health and safety of the community.</p>
+            <img src="https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-08/warning-cybersecurity-types-of-cyber-attacks.png" style="float: right;" width="330" height="180">
+            <p style="line-height: 40px;"><i style="font-size: 20px; font-weight: 900;">Act of Violence </i>ragically, university campuses have sometimes been the targets of acts of violence, such as active shooter incidents or terrorist attacks, which require comprehensive emergency response planning and training.</p>
+            <p style="line-height: 40px;"><i style="font-size: 20px; font-weight: 900;">Cyber Attacks:</i>As technology plays an increasingly vital role in campus operations, the risk of cyber attacks, data breaches, and systems disruptions also needs to be addressed as part of disaster management.</p>
+            <br><br><br><br>
+            <h2 style="font-size: 30px;">The University's Commitment to Safety and Well-being</h2>
+            <p style="line-height: 40px;">The University is deeply committed to ensuring the safety and well-being of all members of the campus community in the event of an emergency or disaster. This commitment is reflected in the University's comprehensive disaster management plan, which is regularly reviewed and updated to address evolving threats and best practices.</p>
+            <img src="https://i1.wp.com/www.techdailytimes.com/wp-content/uploads/2021/06/1488259134phpShnPJa-scaled.jpeg?zoom=3&resize=650%2C364&ssl=1" style="float: right;" width="530" height="380">
+            <p style="line-height: 40px;">The disaster management plan outlines the University's strategies for emergency preparedness, response, and recovery, with the goal of minimizing the impact of any disaster and ensuring the continued operations and resilience of the campus. This includes:
+            </p>
+            <p style="line-height: 40px;">Maintaining a robust emergency communications system to quickly notify and provide instructions to the campus community during a crisis.
+                Providing regular training and drills to prepare faculty, staff, and students for a wide range of emergency scenarios.
+                Collaborating closely with local emergency responders, such as police, fire, and medical services, to ensure a coordinated and effective response.
+                Investing in critical infrastructure, such as backup power systems, emergency shelters, and disaster-resilient building designs, to enhance the campus's ability to withstand and recover from disasters.</p>
+            <p style="line-height: 40px;">Offering comprehensive support services, including counseling and mental health resources, to assist the campus community before, during, and after a disaster.
+                By prioritizing disaster management and preparedness, the University demonstrates its unwavering commitment to the safety and well-being of its students, staff, and faculty. This commitment is essential in ensuring the campus can continue to fulfill its educational and research mission, even in the face of unexpected emergencies or catastrophic events.</p>
+
+            
+        <br>
+        
+        
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: disastermn@gmail.com</p>
+        <p>Phone: +917635247826</p>
+    </section>
+
+
+   
+    <p id="hh">&copy; 2023 Disastermn. All rights reserved.</p>
